@@ -1,0 +1,5 @@
+project_id          = "your-project-id"
+region              = "us-central1"
+zone                = "us-central1-a"
+location            = "us-central1-a"
+credentials_file    = "<the-path-to-the-service-accont-json-key>"
